@@ -1,2 +1,2 @@
 # LaboratorioEstad-stico_MateoTavares
-Trabajos.
+Regression Methods, Classification methods, EDA, Feature Engineering, Scoring and Analysis. 
